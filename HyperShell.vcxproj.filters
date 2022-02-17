@@ -57,4 +57,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="SampleMain.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="SampleCore.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
 </Project>
